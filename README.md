@@ -26,4 +26,4 @@
    
 ## About me
 
-I’m a front-end engineer who thrives on creativity and innovation. I enjoy building and maintaining web applications that deliver a great user experience across different devices and browsers. I have a solid grasp of JavaScript, HTML, CSS, and modern libraries and frameworks such as React JS that enable me to create dynamic and interactive web applications. I’m always eager to learn new skills and technologies that can enhance my web development capabilities.
+I’m a front-end engineer who thrives on creativity and innovation. I enjoy building and maintaining web applications that deliver a great user experience across different devices and browsers. I have a solid grasp of JavaScript, TypeScript, HTML, CSS, and modern libraries and frameworks such as React JS that enables me to create dynamic and interactive web applications. I’m always eager to learn new skills and technologies that can enhance my web development skills.
