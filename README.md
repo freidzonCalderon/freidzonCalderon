@@ -4,7 +4,7 @@
 </h1>
 
 <p align="center">
-  「 I am a front-end web developer from <strong>Costa Rica</strong> 🦥🏖️🌄🌋 」
+  「 I am a software developer from <strong>Costa Rica</strong> 🦥🏖️🌄🌋 」
 </p>
 
 <p align="center">
